@@ -49,5 +49,54 @@ ul{margin-left: 150px;
 hr{height: 1px;
 color: gray}
 
+.list-titles{font-size: 16px;
+}
+
+.editorial{
+    background-color: rgb(44, 109, 200);
+    border-radius: 6px;
+    padding: 3px 4px;
+    margin-left: 5px;
+}
+
+.q1{    background-color: rgb(173, 17, 201);
+    border-radius: 6px;
+    padding: 3px 4px;
+    margin-left: 5px;}
+
+    .recruiting{
+        background-color: rgb(5, 163, 29);
+        border-radius: 6px;
+        padding: 3px 4px;
+        margin-left: 5px;
+    }
+
+    .mobile{    background-color: rgb(217, 82, 19);
+        border-radius: 6px;
+        padding: 3px 4px;
+        margin-left: 5px;}
+
+        .website{
+            background-color: rgb(192, 30, 151);
+            border-radius: 6px;
+            padding: 3px 4px;
+            margin-left: 5px;
+        }
+
+        .sales{    background-color: rgb(142, 147, 10);
+            border-radius: 6px;
+            padding: 3px 4px;
+            margin-left: 5px;}
+
+
+
+
+
+/*Labels*/
+
+.label{font-size: x-small;}
+
+
+
  
 
