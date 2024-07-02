@@ -1,11 +1,36 @@
+/*CSS reset*/
+ * {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+ }
 
 
-/*Header with logo*/
-#logo{
-margin-left:15px;
-margin-top: 15px;
-}
-
+/*Header*/
+#logo{margin-left: 15px;
+margin-top: 14px;
+background-color: rgb(154, 248, 248);}
 
 #title{display: inline-block;
-       line-height: 50%;}
+font-family: sans-serif;
+font-size: 55px;;
+line-height: 50%;}
+ 
+/*Buttons*/
+#task-but{
+    background-color: rgb(33, 143, 216);
+    border-color: rgb(33, 143, 216);
+    border-radius: 7px;
+    color: white;
+    width: 75px;
+    height: 35px;}
+
+ #section-but{ border-radius: 7px;
+        width: 75px;
+        height: 35px;
+     color: gray;}
+ 
+     #buttons{margin-left:380px;
+    margin-top: 80px;}
+ 
+
