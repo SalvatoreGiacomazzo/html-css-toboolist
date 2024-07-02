@@ -1,0 +1,11 @@
+
+
+/*Header with logo*/
+#logo{
+margin-left:15px;
+margin-top: 15px;
+}
+
+
+#title{display: inline-block;
+       line-height: 50%;}
