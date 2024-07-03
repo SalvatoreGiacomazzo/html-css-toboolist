@@ -51,8 +51,8 @@ text-align: 50%;
 
 
 /* Main Content*/
-ul{margin-left: 20px;
-    
+ul{margin-left: 10px;
+    list-style-type: none;
 }
 
 hr{height: 3px;
@@ -60,7 +60,7 @@ color: gray;
 margin-top: 15px;
 
 }
-
+ 
 
 .list-titles{font-size: 16px;
 }
